@@ -1,0 +1,10 @@
+Name : Ivonne Glynn P. Lasco
+Age : 19
+Sex : Male
+Birthdate : December 1, 2002
+Status : Single
+Address : 55 Purok 4-A Lanzones St. Luzon Avenue, Culiat, Q.C.
+School : Polytechnic University of the Philippines
+Vaccinated : Yes
+cellphone number : 09123049421
+
